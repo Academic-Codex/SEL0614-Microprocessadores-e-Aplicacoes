@@ -1,0 +1,12 @@
+REPO_TAGLINE: Microcontrollers • embedded systems • low-level programming
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: workload
+SITE_URL: https://academic-codex.github.io/SEL0614-Microprocessadores
+
+BG_1: "#1F0A0A"
+BG_2: "#3F1D1D"
+TEXT_MAIN: "#FFE4E4"
+TEXT_MUTED: "#E5B4B4"
+ACCENT: "#F87171"
+CARD_RADIUS: "16"
